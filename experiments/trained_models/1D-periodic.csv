@@ -1,0 +1,5 @@
+Name,LogLik,MSE,Dataset,Seed
+double_OU_gru_ode_bayes,26509.55289213132,965.3757165190203,../../gru_ode_bayes/datasets/1D_periodic/1d_periodic.csv,432
+double_OU_gru_ode_bayes,1.4851135454679791,0.13791669042486893,../../gru_ode_bayes/datasets/1D_periodic/1d_periodic.csv,432
+double_OU_gru_ode_bayes,0.0,0.595293546977796,../../gru_ode_bayes/datasets/1D_periodic/1d_periodic.csv,432
+double_OU_gru_ode_bayes,0.0,0.5345117829975329,../../gru_ode_bayes/datasets/1D_periodic/1d_periodic.csv,432
